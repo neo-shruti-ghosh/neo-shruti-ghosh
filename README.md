@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neo-shruti-ghosh
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MEAN Stack
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 How to reach me? Mail me at shrutighosh021@gmail.com
 
